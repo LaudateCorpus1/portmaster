@@ -25,9 +25,8 @@ require (
 	github.com/tidwall/gjson v1.14.0 // indirect
 	github.com/tklauser/numcpus v0.4.0 // indirect
 	github.com/umahmood/haversine v0.0.0-20151105152445-808ab04add26
-	golang.org/x/crypto v0.0.0-20220131195533-30dcbda58838 // indirect
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20220128215802-99c3d69c2c27
-	golang.org/x/tools v0.1.9 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/net v0.1.0
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/sys v0.1.0
 )
